@@ -2,8 +2,8 @@
 <h3 align="center">IS Undergraduate | Rajarata University</h3>
 
 <div align="center">
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlyamU4NW9xb2J5a3Y3ZHpwN2tkN2tvNm1mYnlyZXJ5ZGd3amMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif" alt="Untitled design (14)" width="300" height="300">
-  <h3><b></b>Work smarter, Learn deeper, Innovate faster..!<b></b></h3>
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlyamU4NW9xb2J5a3Y3ZHpwN2tkN2tvNm1mYnlyZXJ5ZGd3amMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif" alt="Illustration of a girl coding at a laptop"  width="300" height="300">
+  <h3><b></b><i>Work smarter, Learn deeper, Innovate faster..!</i><b></b></h3>
 </div><br>
 
 
